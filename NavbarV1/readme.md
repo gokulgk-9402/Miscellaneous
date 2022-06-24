@@ -10,3 +10,5 @@ This is just a simple custom navigation bar that I created for HTML using Bootst
 There are basic fields like icon, title, links to different pages, drop down menu (with optional divider), search field and search button.  
 
 The navbar also collapses when the viewport size gets too small (minimized browsers, mobile browsers, etc.)  
+
+A screen capture of the navbar is also there in this directory.
