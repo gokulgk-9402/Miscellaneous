@@ -11,3 +11,6 @@ Some random stuff I will be working on, which can be later used as a part of a b
 
 3) Simple Webscraping to get price of an item from amazon.in  
 *Date Added: 25-06-2022*
+
+4) Simple 2 way communicaiton using sockets in Python  
+*Date Added: 26-06-2022*  
