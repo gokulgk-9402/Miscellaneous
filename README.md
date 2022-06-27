@@ -14,3 +14,6 @@ Some random stuff I will be working on, which can be later used as a part of a b
 
 4) Simple 2 way communicaiton using sockets in Python  
 *Date Added: 26-06-2022*  
+
+5) Email Authentication using smtplib 
+*Date Added: 27-06-2022*
