@@ -18,5 +18,8 @@ Some random stuff I will be working on, which can be later used as a part of a b
 5) Email Authentication using smtplib   
 *Date Added: 27-06-2022*  
 
-6) Sketch using pygame
+6) Sketch using pygame  
 *Date Added: 02-07-2022*  
+
+7) SMS Authentication  
+*Date Added: 17-07-2022*
